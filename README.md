@@ -42,7 +42,7 @@ Recuerde la sintaxis de la operación `INSERT`. Consulte el manual de mariadb pa
 1. **Inserta datos válidos** en la tabla `Usuarios` para cuatro usuarios diferentes, asegurándote de que la contraseña cumpla con la longitud mínima de 8 caracteres y el email sea único.
 2. **Inserta un cliente** con una edad superior a 14 años en la tabla `Clientes`, relacionado con uno de los usuarios previamente creados.
 3. **Inserta un cliente** con una edad superior a 14 años y menor de 18 años en la tabla `Clientes`, relacionado con uno de los usuarios previamente creados.
-4. **Inserta un cliente** con que no tendrá ningun pedido..
+4. **Inserta un cliente** que no tendrá ningun pedido.
 4. **Inserta un empleado** en la tabla `Empleados`, relacionado con uno de los usuarios previamente creados.
 6. **Añade tipos de producto** en la tabla `TiposProducto` para categorías de productos (por ejemplo, "Electrónica", "Alimentos" y "Droguería").
 5. **Inserta productos** en la tabla `Productos`, asociándolos a los tipos de producto creados previamente. Asegúrate de cumplir con las siguientes características para cada producto:
